@@ -1,4 +1,6 @@
 # Relatório de Auditoria Interna – TechWave Solutions
+Obs: detalhamento do que deve ser escrito em cada desafio está escrito nos arquivos "Guia.md". Mas sintá-se livre para usar a estrutura e formato que desejar, desde um arquivo .txt simples até um documento decorado no canva :)
+
 
 ## 👥 Participante(s)
 - Nome(s):
