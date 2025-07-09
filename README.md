@@ -21,3 +21,5 @@
 
 — *Tereza Pinheiro, CISO da TechWave Solutions*
 
+###Observação: As 3 primeiras atividades possuem FLAGS, que nada mais são do que respostas que comprovam que você de fato solucionou o desafio. Portanto, não esqueça de adicioná-las ao seu relatório!
+
