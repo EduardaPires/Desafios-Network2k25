@@ -6,7 +6,7 @@ O novo site institucional da TechWave foi publicado às pressas para atender a u
 
 Por precaução, a equipe de segurança foi acionada para realizar uma análise rápida. Seu papel é verificar se **há vazamentos de informações sensíveis ou comentários deixados por engano** no HTML da página publicada.
 
-Observação: Abra o arquivo .html em qualquer browser/navegador disponível
+Observação: Baixe os 2 arquivos .html e abra **apenas** o arquivo index.html em qualquer browser/navegador disponível (clicando no botão direito e em "Abrir com...")
 
 ---
 
