@@ -1,0 +1,19 @@
+From: notificacoes@techwave.com.br
+To: rodrigo.menezes@techwave.com.br
+Subject: Confirmação de acesso à plataforma colaborativa
+Date: Tue, 9 Jul 2025 10:14:05 -0300
+Message-ID: <10622@techwave.com.br>
+Reply-To: notificacoes@techwave.com.br
+Content-Type: text/plain; charset="UTF-8"
+
+Olá Rodrigo,
+
+Você foi adicionado recentemente à nova plataforma colaborativa da TechWave. Por motivos de segurança e integração com os serviços de login único (SSO), pedimos que confirme seu primeiro acesso utilizando o link abaixo:
+
+https://intra.techwave.com.br/confirmacao-usuario
+
+Caso não tenha solicitado esse acesso, por favor, entre em contato com o setor de TI pelo canal interno.
+
+Atenciosamente,  
+Equipe de Integrações  
+TechWave Solutions

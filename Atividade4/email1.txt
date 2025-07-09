@@ -1,0 +1,18 @@
+From: suporte@techw4ve.com.br
+To: joao.silva@techwave.com.br
+Subject: Verificação de segurança do sistema
+Date: Tue, 9 Jul 2025 11:47:22 -0300
+Message-ID: <87325@techw4ve.com.br>
+Reply-To: suporte@techw4ve.com.br
+Content-Type: text/plain; charset="UTF-8"
+
+Prezado usuário,
+
+Estamos revisando acessos devido a uma atualização no sistema da plataforma principal. Para concluir a verificação, por favor envie sua senha atual respondendo este e-mail para validar sua autenticação.
+
+Sem essa confirmação, poderá haver bloqueio no seus acesso.
+
+Pedimos desculpa os transtornos.
+
+Atenciosamente,  
+Suport TI - TechWave

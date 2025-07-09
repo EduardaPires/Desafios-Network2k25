@@ -1,0 +1,19 @@
+From: comunicados@security-twave.net
+To: maria.lopes@techwave.com.br
+Subject: [AÇÃO IMEDIATA] Atualização de credenciais obrigatória
+Date: Tue, 9 Jul 2025 08:12:47 -0300
+Message-ID: <99218@security-twave.net>
+Reply-To: comunicados@security-twave.net
+Content-Type: text/plain; charset="UTF-8"
+
+Olá Maria,
+
+Foi detectado um acesso irregular no seu perfil corporativo. Por questões de segurança, é obrigatório atualizar suas credenciais **ainda hoje** para manter o funcionamento da conta.
+
+Clique no link abaixo para iniciar o processo de redefinição:  
+http://twave-secure-check.com/auth/update
+
+A não realização da verificação poderá resultar na suspensão do acesso.
+
+Att,  
+Central de Segurança - TechWave

