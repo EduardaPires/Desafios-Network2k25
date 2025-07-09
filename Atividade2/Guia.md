@@ -26,14 +26,13 @@ Esse trecho foi extraído e armazenado em um arquivo chamado `Email_Ofuscado.txt
 - Preste atenção em:
   - Padrões de repetição ou blocos com comprimento fixo
   - Caracteres comuns em codificações (`=`, `/`, `+`)
-  - Se o texto parecer embaralhado mas estruturado, isso pode ser proposital
 - Teste diferentes tipos de conversão (ex: texto → hexadecimal → binário) até obter uma mensagem inteligível
 
 ---
 
 ## ✅ Objetivo
 
-- Identificar se há informação oculta
+- Identificar se há informação oculta e se sim qual e o que ela significa
 - Decodificar a mensagem e registrar a descoberta
 - Apontar a técnica utilizada (ou sua hipótese)
 - Analisar o risco da comunicação passar despercebida
