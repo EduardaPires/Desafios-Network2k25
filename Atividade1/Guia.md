@@ -54,14 +54,13 @@ Seu objetivo como **analista de segurança** é tentar descobrir essas senhas co
 ---
 
 ### 👨‍💻 Eduardo Martins – Tecnologia da Informação  
-📁 Arquivo: `DevSecrets_Eduardo.zip`  
+📁 Arquivo: `Secrets_Eduardo.zip`  
 🎂 Nascimento: 14/11/1993 (31 anos)
 
 **Informações do perfil:**
-- Fã de rock clássico (bandas como *Metallica*, *Iron Maiden*)
-- Costuma dizer “Metal nunca morre” em conversas
-- Usa camisetas de banda e adesivos da Metallica no notebook
+- Usa camisetas de banda e adesivos da Hot Peppers no notebook
 - Tem action figures de Star Wars na mesa
+- Fã de rock clássico (bandas como *Metallica*, *Iron Maiden*)
 - Foi palestrante na *TechCon 2023* sobre DevSecOps
 - Automatizou a cafeteira do escritório com scripts em Python
 - Diz que lembra todas as senhas “de cabeça”
@@ -75,7 +74,7 @@ Seu objetivo como **analista de segurança** é tentar descobrir essas senhas co
 3. Extraia o conteúdo dos arquivos `.zip`
 4. Anote:
    - A senha usada
-   - O que foi encontrado dentro do arquivo
+   - FLAG encontrada dentro do arquivo
    - Qual foi a falha de segurança cometida
    - Sua sugestão de senha mais segura
 
