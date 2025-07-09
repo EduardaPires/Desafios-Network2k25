@@ -22,7 +22,7 @@ Esse trecho foi extraído e armazenado em um arquivo chamado `Email_Ofuscado.txt
 
 ## 🧠 Dicas
 
-- Ferramentas comuns de ataque usam codificações simples para burlar filtros de e-mail ou sistemas de detecção.
+- Ferramenta útil: CyberChef 
 - Preste atenção em:
   - Padrões de repetição ou blocos com comprimento fixo
   - Caracteres comuns em codificações (`=`, `/`, `+`)
