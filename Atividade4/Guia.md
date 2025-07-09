@@ -4,7 +4,7 @@
 
 Nos últimos dias, a equipe de segurança recebeu relatos de **e-mails suspeitos** sendo enviados a colaboradores da TechWave. Os conteúdos variam entre notificações internas e solicitações de ação imediata.
 
-Sua missão é analisar **quatro mensagens** recebidas e determinar:
+Sua missão é analisar **quatro mensagens** recebidas e determinar por escrito em seu relatório:
 
 1. **Qual(is) são falsos?** (Podem haver mais de um e-mail malicioso)
 2. Quais **indícios técnicos** (no conteúdo, links, remetente ou formatação) apontam para tentativa de **engenharia social**?
