@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Login - TechWave</title>
+  <style>
+    body { font-family: sans-serif; background-color: #f4f4f4; display: flex; justify-content: center; align-items: center; height: 100vh; }
+    .box { background: white; padding: 30px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); text-align: center; }
+    input { margin: 8px; padding: 10px; width: 240px; }
+    button { padding: 10px 20px; margin-top: 10px; }
+  </style>
+</head>
+<body>
+
+  <div class="box">
+    <h2>Área Administrativa</h2>
+    <form onsubmit="return autenticar();">
+      <input type="text" id="usuario" placeholder="Usuário"><br>
+      <input type="password" id="senha" placeholder="Senha"><br>
+      <button type="submit">Entrar</button>
+    </form>
+  </div>
+
+  <!--
+    Obs: Remover possiveis informações sensíveis nos scripts!
+  -->
+
+  <script>
+    function autenticar() {
+      const usuario = document.getElementById('usuario').value;
+      const senha = document.getElementById('senha').value;
+
+      if (usuario === 'admin_techwave' && senha === 'TW2025@!') {
+        window.location.href = 'admin.html';
+      } else {
+        alert("Acesso negado. Usuário ou senha incorretos.");
+      }
+      return false;
+    }
+  </script>
+
+</body>
+</html>
