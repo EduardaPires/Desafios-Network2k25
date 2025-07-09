@@ -10,9 +10,9 @@ Observação: Abra o arquivo .html em qualquer browser/navegador disponível
 
 ---
 
-## 🎯 Sua Missão
+## 🎯 Passos
 
-- Abrir o arquivo `site_techwave.html` em um navegador
+- Abrir o arquivo `index.html` em um **navegador** (para que a experiência do desafio seja o mais realista possível)
 - Localizar possíveis **informações sensíveis**
 - Registrar se encontrou alguma **flag**, credencial ou erro de configuração
 
@@ -23,9 +23,9 @@ Observação: Abra o arquivo .html em qualquer browser/navegador disponível
 
 No seu relatório, informe:
 
-- Se encontrou alguma informação confidencial
+- Se encontrou alguma informação confidencial e/ou flag
 - Onde ela estava (linha aproximada ou seção do código)
 - Qual era o conteúdo
-- Qual o risco associado
+- Qual o risco associado a ele
 
 
